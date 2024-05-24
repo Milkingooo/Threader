@@ -1,0 +1,7 @@
+D:\мдк 01.04\ServerManyThread\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\мдк 01.04\ServerManyThread\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\мдк 01.04\ServerManyThread\Client\bin\Debug\Client.exe.config
+D:\мдк 01.04\ServerManyThread\Client\bin\Debug\Client.exe
+D:\мдк 01.04\ServerManyThread\Client\bin\Debug\Client.pdb
+D:\мдк 01.04\ServerManyThread\Client\obj\Debug\Client.exe
+D:\мдк 01.04\ServerManyThread\Client\obj\Debug\Client.pdb

@@ -1,0 +1,7 @@
+D:\мдк 01.04\ServerManyThread\ServerManyThread\bin\Debug\ServerManyThread.exe.config
+D:\мдк 01.04\ServerManyThread\ServerManyThread\bin\Debug\ServerManyThread.exe
+D:\мдк 01.04\ServerManyThread\ServerManyThread\bin\Debug\ServerManyThread.pdb
+D:\мдк 01.04\ServerManyThread\ServerManyThread\obj\Debug\ServerManyThread.csproj.AssemblyReference.cache
+D:\мдк 01.04\ServerManyThread\ServerManyThread\obj\Debug\ServerManyThread.csproj.CoreCompileInputs.cache
+D:\мдк 01.04\ServerManyThread\ServerManyThread\obj\Debug\ServerManyThread.exe
+D:\мдк 01.04\ServerManyThread\ServerManyThread\obj\Debug\ServerManyThread.pdb
